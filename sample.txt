@@ -1,2 +1,3 @@
 this is changes
 This is a new line added using Git Bash
+changes made in the feature 
